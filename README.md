@@ -1,6 +1,7 @@
 [![Sunrise on the thawing lake](images/thumbnails/sunrise_on_the_thawing_lake-thumbnail.jpg)](https://giraut.github.io/360_photography//sunrise_on_the_thawing_lake.html)
 [![Ski trek #1](images/thumbnails/ski_trek1-thumbnail.jpg)](https://giraut.github.io/360_photography//ski_trek1.html)
 [![Ski trek #2](images/thumbnails/ski_trek1-thumbnail.jpg)](https://giraut.github.io/360_photography//ski_trek2.html)
+[![Wood pile](images/thumbnails/wood_pile-thumbnail.jpg)](https://giraut.github.io/360_photography//wood_pile.html)
 [![Northern lights #1](images/thumbnails/northern_lights1-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights1.html)
 [![Northern lights #2](images/thumbnails/northern_lights2-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights2.html)
 [![Northern lights #3](images/thumbnails/northern_lights3-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights3.html)
