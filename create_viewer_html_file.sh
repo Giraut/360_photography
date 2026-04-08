@@ -17,11 +17,11 @@ HOTSPOTS_FILE=$5
 
 # If a hotspots file has been specified, load it
 # If it's empty (for example by passing /dev/null) then turn on hotspot debugging
-HOTSPOTS='"hotSpotDebug": false'
+HOTSPOTS='        "hotSpotDebug": false'
 if [ "${HOTSPOTS_FILE}" != "" ]; then
   HOTSPOTS=$(awk '{print "        " $0}' ${HOTSPOTS_FILE})
   if [ "${HOTSPOTS}" = "" ]; then
-    HOTSPOTS='"hotSpotDebug": true'
+    HOTSPOTS='        "hotSpotDebug": true'
   fi
 fi
 
