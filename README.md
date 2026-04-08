@@ -1,3 +1,5 @@
+# 360° photography
+
 [![Sunrise on the thawing lake](images/thumbnails/sunrise_on_the_thawing_lake-thumbnail.jpg)](https://giraut.github.io/360_photography//sunrise_on_the_thawing_lake.html)
 [![Ski trek #1](images/thumbnails/ski_trek1-thumbnail.jpg)](https://giraut.github.io/360_photography//ski_trek1.html)
 [![Ski trek #2](images/thumbnails/ski_trek1-thumbnail.jpg)](https://giraut.github.io/360_photography//ski_trek2.html)
