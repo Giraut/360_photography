@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Northern lights #1</title>
+    <meta property="og:title" content="Northern lights #1" />
+    <meta property="og:description" content="Northern lights #1 - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography//images/thumbnails/northern_lights1-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Northern lights #1" />
+    <link rel="stylesheet" href="https://giraut.github.io/360_photography//pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="https://giraut.github.io/360_photography//pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama', {
+        "title": "Northern lights #1",
+        "type": "equirectangular",
+        "panorama": "https://giraut.github.io/360_photography//images/northern_lights1.jpg",
+        "autoLoad": true,
+        "hotSpotDebug": false
+      });
+    </script>
+  </body>
+
+</html>

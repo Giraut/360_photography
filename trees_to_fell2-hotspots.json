@@ -1,0 +1,15 @@
+"hotSpots": [
+  {
+    "pitch": 53,
+    "yaw": -5.8,
+    "type": "info",
+    "text": "Stuck branches"
+  },
+  {
+    "pitch": -67.13,
+    "yaw": -80.16,
+    "type": "info",
+    "text": "[Click for ground level view]",
+    "URL": "trees_to_fell1.html"
+  }
+]
