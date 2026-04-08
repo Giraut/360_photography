@@ -1,3 +1,7 @@
+[![Sunrise on the thawing lake](images/thumbnails/sunrise_on_the_thawing_lake-thumbnail.jpg)](https://giraut.github.io/360_photography//sunrise_on_the_thawing_lake.html)
 [![Northern lights #1](images/thumbnails/northern_lights1-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights1.html)
+[![Northern lights #2](images/thumbnails/northern_lights2-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights2.html)
+[![Northern lights #3](images/thumbnails/northern_lights3-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights3.html)
+[![Northern lights #4](images/thumbnails/northern_lights4-thumbnail.jpg)](https://giraut.github.io/360_photography//northern_lights4.html)
 [![Trees to fell #1](images/thumbnails/trees_to_fell1-thumbnail.jpg)](https://giraut.github.io/360_photography//trees_to_fell1.html)
 [![Trees to fell #2](images/thumbnails/trees_to_fell2-thumbnail.jpg)](https://giraut.github.io/360_photography//trees_to_fell2.html)
