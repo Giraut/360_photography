@@ -1,45 +1,47 @@
-"hotSpots": [
-  {
-    "pitch": -4.2,
-    "yaw": -98.15,
-    "type": "info",
-    "text": "Remove stuck branches up in the tree [click for view above]",
-    "URL": "trees_to_fell2.html"
-  },
-  {
-    "pitch": -1.98,
-    "yaw": -43.25,
-    "type": "info",
-    "text": "Fell"
-  },
-  {
-    "pitch": -0.6,
-    "yaw": -27.2,
-    "type": "info",
-    "text": "Fell (side of the building)"
-  },
-  {
-    "pitch": -2.2,
-    "yaw": -14.3,
-    "type": "info",
-    "text": "Fell"
-  },
-  {
-    "pitch": -1.91,
-    "yaw": -10.86,
-    "type": "info",
-    "text": "Fell"
-  },
-  {
-    "pitch": -1.1,
-    "yaw": -135.1,
-    "type": "info",
-    "text": "Fell"
-  },
-  {
-    "pitch": -2.1,
-    "yaw": -235.87,
-    "type": "info",
-    "text": "Fell"
-  }
-]
+{
+  "hotSpots": [
+    {
+      "pitch": -4.2,
+      "yaw": -98.15,
+      "type": "info",
+      "text": "Remove stuck branches up in the tree [click for view above]",
+      "URL": "trees_to_fell2.html"
+    },
+    {
+      "pitch": -1.98,
+      "yaw": -43.25,
+      "type": "info",
+      "text": "Fell"
+    },
+    {
+      "pitch": -0.6,
+      "yaw": -27.2,
+      "type": "info",
+      "text": "Fell (side of the building)"
+    },
+    {
+      "pitch": -2.2,
+      "yaw": -14.3,
+      "type": "info",
+      "text": "Fell"
+    },
+    {
+      "pitch": -1.91,
+      "yaw": -10.86,
+      "type": "info",
+      "text": "Fell"
+    },
+    {
+      "pitch": -1.1,
+      "yaw": -135.1,
+      "type": "info",
+      "text": "Fell"
+    },
+    {
+      "pitch": -2.1,
+      "yaw": -235.87,
+      "type": "info",
+      "text": "Fell"
+    }
+  ]
+}

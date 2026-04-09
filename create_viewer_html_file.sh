@@ -1,37 +1,41 @@
 #!/bin/sh
 # Call this script with the filename of the equirectangular 360 degree image for which to create an HTML file to view and its title
 
-URLROOT=https://giraut.github.io/360_photography/
+URLROOT=https://giraut.github.io/360_photography
 
 # Check that we have the required arguments
-if [ "$1" = "" ] || [ "$2" = "" ] || [ "$3" = "" ] || [ "$4" = "" ]; then
-  echo "Usage: $0 <equirectangular file> <title> <starting yaw angle> <starting pitch angle> [hotspots file]"
+if [ "$1" = "" ] || [ "$2" = "" ] || [ "$3" = "" ]; then
+  echo "Usage: $0 <equirectangular file> <title> <starting pitch angle> [hotspots file]"
   exit
 fi
 
 EQIMG=$1
 TITLE=$2
-YAW=$3
-PITCH=$4
-HOTSPOTS_FILE=$5
+PITCH=$3
+HOTSPOTS_FILE=$4
 
-# If a hotspots file has been specified, load it
-# If it's empty (for example by passing /dev/null) then turn on hotspot debugging
-HOTSPOTS='        "hotSpotDebug": false'
-if [ "${HOTSPOTS_FILE}" != "" ]; then
-  HOTSPOTS=$(awk '{print "        " $0}' ${HOTSPOTS_FILE})
-  if [ "${HOTSPOTS}" = "" ]; then
-    HOTSPOTS='        "hotSpotDebug": true'
-  fi
+# If a hotspots JSON file has been specified, load it
+# If it's empty, set it to "{}"
+if [ "${HOTSPOTS_FILE}" != "" ] && [ -f ${HOTSPOTS_FILE} ]; then
+  HOTSPOTS=$(jq . ${HOTSPOTS_FILE})
+else
+  HOTSPOTS={}
 fi
 
-# Determine the root name of the equirectangular file
+# Determine the root name of the equirectangular image file
 EQIMG_BASENAME=$(basename $EQIMG)
 EQIMG_ROOTNAME=$(echo ${EQIMG_BASENAME} | sed -e "s/\.[0-9a-zA-Z]*$//")
+
+MULTIRES=images/multires/${EQIMG_ROOTNAME}
 THUMBNAIL=images/thumbnails/${EQIMG_ROOTNAME}-thumbnail.jpg
 
+# Create the multires dataset for the source equirectangular image file if it doesn't exist yet
+if ! [ -d ${MULTIRES} ]; then
+  pannellum/utils/multires/generate.py --autoload --quality 85 --haov 360 --vaov 180 --hfov 100 --tilesize 1024 --fallbacksize 1024 ${EQIMG} --output ${MULTIRES}
+fi
+
 # Create the thumbnail
-convert $1 -gravity center -crop 25%x50%+0+0 -scale x800 360_logo.png -compose over -composite ${THUMBNAIL}
+convert ${MULTIRES}/fallback/f.jpg -gravity center -scale x800 360_logo.png -compose over -composite ${THUMBNAIL}
 
 # Create the HTML file
 cat <<EOF > ${EQIMG_ROOTNAME}.html
@@ -49,8 +53,8 @@ cat <<EOF > ${EQIMG_ROOTNAME}.html
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="800" />
     <meta property="og:image:alt" content="${TITLE}" />
-    <link rel="stylesheet" href="${URLROOT}/pannellum_build/pannellum.css"/>
-    <script type="text/javascript" src="${URLROOT}/pannellum_build/pannellum.js"></script>
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
     <style>
       html {
         height: 100%;
@@ -74,20 +78,20 @@ cat <<EOF > ${EQIMG_ROOTNAME}.html
   <body>
     <div id="panorama"></div>
     <script>
-      pannellum.viewer('panorama', {
-        "title": "${TITLE}",
-        "type": "equirectangular",
-        "panorama": "${URLROOT}/images/${EQIMG_BASENAME}",
-        "yaw": ${YAW},
-        "pitch": ${PITCH},
-        "autoLoad": true,
-${HOTSPOTS}
-      });
+      pannellum.viewer('panorama',
+EOF
+
+jq --indent 2 --argjson hotspots "$HOTSPOTS" '.multiRes += {"basePath": "'${MULTIRES}'"} | . += {"title": "'"${TITLE}"'", "pitch": "'"${PITCH}"'"} | . += $hotspots' ${MULTIRES}/config.json | sed -e "s/^/        /" >> ${EQIMG_ROOTNAME}.html
+
+cat <<EOF >> ${EQIMG_ROOTNAME}.html
+      );
     </script>
   </body>
 
 </html>
 EOF
 
-# Add an entry in the README.md
-echo "[![${TITLE}](${THUMBNAIL})](${URLROOT}/${EQIMG_ROOTNAME}.html)" >> README.md
+# Add an entry in the README.md if it's not already there
+if ! grep ${EQIMG_ROOTNAME}.html README.md > /dev/null; then
+  echo "[![${TITLE}](${THUMBNAIL})](${URLROOT}/${EQIMG_ROOTNAME}.html)" >> README.md
+fi

@@ -4,16 +4,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ski trek #e</title>
+    <title>Ski trek #1</title>
     <meta property="og:title" content="Ski trek #1" />
     <meta property="og:description" content="Ski trek #1 - 360-degree photo sphere" />
-    <meta property="og:image" content="https://giraut.github.io/360_photography//images/thumbnails/ski_trek1-thumbnail.jpg" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/ski_trek1-thumbnail.jpg" />
     <meta property="og:image:type" content="images/jpeg" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="800" />
     <meta property="og:image:alt" content="Ski trek #1" />
-    <link rel="stylesheet" href="https://giraut.github.io/360_photography//pannellum_build/pannellum.css"/>
-    <script type="text/javascript" src="https://giraut.github.io/360_photography//pannellum_build/pannellum.js"></script>
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
     <style>
       html {
         height: 100%;
@@ -37,15 +37,25 @@
   <body>
     <div id="panorama"></div>
     <script>
-      pannellum.viewer('panorama', {
-        "title": "Ski trek #1",
-        "type": "equirectangular",
-        "panorama": "https://giraut.github.io/360_photography//images/ski_trek1.jpg",
-        "yaw": 0,
-        "pitch": 0,
-        "autoLoad": true,
-        "hotSpotDebug": false
-      });
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5v~qj]ayt7ayofkCWBf6ayRjayayayj[kCayjtayj[ayWBayj[j[fQj@j[fQfQj[ayj[fQj[ay",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/ski_trek1"
+          },
+          "title": "Ski trek #1",
+          "pitch": "0"
+        }
+      );
     </script>
   </body>
 

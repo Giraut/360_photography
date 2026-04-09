@@ -7,13 +7,13 @@
     <title>Ski trek #2</title>
     <meta property="og:title" content="Ski trek #2" />
     <meta property="og:description" content="Ski trek #2 - 360-degree photo sphere" />
-    <meta property="og:image" content="https://giraut.github.io/360_photography//images/thumbnails/ski_trek2-thumbnail.jpg" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/ski_trek2-thumbnail.jpg" />
     <meta property="og:image:type" content="images/jpeg" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="800" />
     <meta property="og:image:alt" content="Ski trek #2" />
-    <link rel="stylesheet" href="https://giraut.github.io/360_photography//pannellum_build/pannellum.css"/>
-    <script type="text/javascript" src="https://giraut.github.io/360_photography//pannellum_build/pannellum.js"></script>
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
     <style>
       html {
         height: 100%;
@@ -37,15 +37,25 @@
   <body>
     <div id="panorama"></div>
     <script>
-      pannellum.viewer('panorama', {
-        "title": "Ski trek #2",
-        "type": "equirectangular",
-        "panorama": "https://giraut.github.io/360_photography//images/ski_trek2.jpg",
-        "yaw": 0,
-        "pitch": 0,
-        "autoLoad": true,
-        "hotSpotDebug": false
-      });
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5w_4WXfkbIj]j[kCaya}fQWBj[aza|j[fPaxayfQfRayRjR*ofj]j[ayofa|ayj[ayayfQj[fQ",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/ski_trek2"
+          },
+          "title": "Ski trek #2",
+          "pitch": "0"
+        }
+      );
     </script>
   </body>
 

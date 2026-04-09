@@ -7,13 +7,13 @@
     <title>Wood pile</title>
     <meta property="og:title" content="Wood pile" />
     <meta property="og:description" content="Wood pile - 360-degree photo sphere" />
-    <meta property="og:image" content="https://giraut.github.io/360_photography//images/thumbnails/wood_pile-thumbnail.jpg" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/wood_pile-thumbnail.jpg" />
     <meta property="og:image:type" content="images/jpeg" />
     <meta property="og:image:width" content="800" />
     <meta property="og:image:height" content="800" />
     <meta property="og:image:alt" content="Wood pile" />
-    <link rel="stylesheet" href="https://giraut.github.io/360_photography//pannellum_build/pannellum.css"/>
-    <script type="text/javascript" src="https://giraut.github.io/360_photography//pannellum_build/pannellum.js"></script>
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
     <style>
       html {
         height: 100%;
@@ -37,15 +37,25 @@
   <body>
     <div id="panorama"></div>
     <script>
-      pannellum.viewer('panorama', {
-        "title": "Wood pile",
-        "type": "equirectangular",
-        "panorama": "https://giraut.github.io/360_photography//images/wood_pile.jpg",
-        "yaw": 0,
-        "pitch": 0,
-        "autoLoad": true,
-        "hotSpotDebug": false
-      });
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5s~qbbofkDaej@o#WAj]j[RjoKj]fPWBRjofj[jtWVfRofoej[aeofj[f6j]fQfPoLkCayj@az",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/wood_pile"
+          },
+          "title": "Wood pile",
+          "pitch": "0"
+        }
+      );
     </script>
   </body>
 
