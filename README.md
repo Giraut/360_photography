@@ -11,3 +11,4 @@
 [![Trees to fell #1](images/thumbnails/trees_to_fell1-thumbnail.jpg)](https://giraut.github.io/360_photography/trees_to_fell1.html)
 [![Trees to fell #2](images/thumbnails/trees_to_fell2-thumbnail.jpg)](https://giraut.github.io/360_photography/trees_to_fell2.html)
 [![Look behind you...](images/thumbnails/look_behind_you-thumbnail.jpg)](https://giraut.github.io/360_photography/look_behind_you.html)
+[![Garage workshop conversion in progress](images/thumbnails/garage_workshop_conversion_in_progress-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress.html)
