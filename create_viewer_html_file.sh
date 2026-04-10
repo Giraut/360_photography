@@ -81,7 +81,7 @@ cat <<EOF > ${EQIMG_ROOTNAME}.html
       pannellum.viewer('panorama',
 EOF
 
-jq --indent 2 --argjson hotspots "$HOTSPOTS" '.multiRes += {"basePath": "'${MULTIRES}'"} | . += {"title": "'"${TITLE}"'", "pitch": "'"${PITCH}"'"} | . += $hotspots' ${MULTIRES}/config.json | sed -e "s/^/        /" >> ${EQIMG_ROOTNAME}.html
+jq --indent 2 --argjson hotspots "$HOTSPOTS" '.multiRes += {"basePath": "'${MULTIRES}'"} | . += {"title": "'"${TITLE}"'", "pitch": "'"${PITCH}"'", "hotSpotDebug": false} | . += $hotspots' ${MULTIRES}/config.json | sed -e "s/^/        /" >> ${EQIMG_ROOTNAME}.html
 
 cat <<EOF >> ${EQIMG_ROOTNAME}.html
       );
