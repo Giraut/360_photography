@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rapids - Downstream island</title>
+    <meta property="og:title" content="Rapids - Downstream island" />
+    <meta property="og:description" content="Rapids - Downstream island - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/rapids-downstream_island-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Rapids - Downstream island" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5v?wkrs.R+WBWBRiofazayodWVj@a}j[kCfkayfkj[oLt7j[j[oJofWqj]WVj[ayWCj[f6a#fk",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/rapids-downstream_island"
+          },
+          "title": "Rapids - Downstream island",
+          "pitch": "0",
+          "hotSpotDebug": false,
+          "hotSpots": [
+            {
+              "pitch": -17.8,
+              "yaw": 154.34,
+              "type": "info",
+              "text": "To the ice-damaged bridge",
+              "URL": "rapids-ice-damaged_bridge.html"
+            }
+          ]
+        }
+      );
+    </script>
+  </body>
+
+</html>

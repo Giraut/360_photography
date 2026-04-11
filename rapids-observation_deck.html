@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rapids - Observation deck</title>
+    <meta property="og:title" content="Rapids - Observation deck" />
+    <meta property="og:description" content="Rapids - Observation deck - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/rapids-observation_deck-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Rapids - Observation deck" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5r?wx^WBR.WAWrRjofj]ays.j[WBa#ofj?bHf8j[f7j@V?WAV@t6WBaeofj[j[WAWWkBWBayae",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/rapids-observation_deck"
+          },
+          "title": "Rapids - Observation deck",
+          "pitch": "0",
+          "hotSpotDebug": false,
+          "hotSpots": [
+            {
+              "pitch": -18.16,
+              "yaw": 173.11,
+              "type": "info",
+              "text": "To the view of the south bridge",
+              "URL": "rapids-south_bridge.html"
+            },
+            {
+              "pitch": -2.8,
+              "yaw": 321.28,
+              "type": "info",
+              "text": "To the barbecue",
+              "URL": "rapids-barbecue.html"
+            },
+            {
+              "pitch": -5.46,
+              "yaw": 32.75,
+              "type": "info",
+              "text": "To the boardwalk",
+              "URL": "rapids-boardwalk.html"
+            },
+            {
+              "pitch": -2.62,
+              "yaw": 98.33,
+              "type": "info",
+              "text": "To the north bridge",
+              "URL": "rapids-north_bridge.html"
+            }
+          ]
+        }
+      );
+    </script>
+  </body>
+
+</html>

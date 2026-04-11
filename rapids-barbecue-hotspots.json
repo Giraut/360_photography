@@ -1,0 +1,18 @@
+{
+  "hotSpots": [
+    {
+      "pitch": -21.73,
+      "yaw": 122.18,
+      "type": "info",
+      "text": "To the hut",
+      "URL": "rapids-hut.html"
+    },
+    {
+      "pitch": -0.6,
+      "yaw": 263.79,
+      "type": "info",
+      "text": "To the observation deck",
+      "URL": "rapids-observation_deck.html"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "hotSpots": [
+    {
+      "pitch": -4.98,
+      "yaw": 157.79,
+      "type": "info",
+      "text": "To the boardwalk",
+      "URL": "rapids-boardwalk.html"
+    },
+    {
+      "pitch": -1.56,
+      "yaw": -18.26,
+      "type": "info",
+      "text": "To the downstream island",
+      "URL": "rapids-downstream_island.html"
+    }
+  ]
+}

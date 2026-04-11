@@ -1,0 +1,32 @@
+{
+  "hotSpots": [
+    {
+      "pitch": -18.16,
+      "yaw": 173.11,
+      "type": "info",
+      "text": "To the view of the south bridge",
+      "URL": "rapids-south_bridge.html"
+    },
+    {
+      "pitch": -2.8,
+      "yaw": 321.28,
+      "type": "info",
+      "text": "To the barbecue",
+      "URL": "rapids-barbecue.html"
+    },
+    {
+      "pitch": -5.46,
+      "yaw": 32.75,
+      "type": "info",
+      "text": "To the boardwalk",
+      "URL": "rapids-boardwalk.html"
+    },
+    {
+      "pitch": -2.62,
+      "yaw": 98.33,
+      "type": "info",
+      "text": "To the north bridge",
+      "URL": "rapids-north_bridge.html"
+    }
+  ]
+}

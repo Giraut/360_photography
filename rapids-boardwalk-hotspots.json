@@ -1,0 +1,18 @@
+{
+  "hotSpots": [
+    {
+      "pitch": -4.98,
+      "yaw": -0.87,
+      "type": "info",
+      "text": "To the ice-damaged bridge",
+      "URL": "rapids-ice-damaged_bridge.html"
+    },
+    {
+      "pitch": -1.71,
+      "yaw": 206.8,
+      "type": "info",
+      "text": "To the observation deck",
+      "URL": "rapids-observation_deck.html"
+    }
+  ]
+}
