@@ -15,4 +15,4 @@
 [![Garage workshop conversion in progress](images/thumbnails/garage_workshop_conversion_in_progress-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress.html)
 [![Garage workshop conversion in progress #2](images/thumbnails/garage_workshop_conversion_in_progress2-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress2.html)
 [![Rapids - Tour](images/thumbnails/rapids-observation_deck-thumbnail.jpg)](https://giraut.github.io/360_photography/rapids-tour.html)
-[![Sunshine over a mystery box in the ground](images/thumbnails/mystery_box_sunshine-thumbnail.jpg)](https://giraut.github.io/360_photography/mystery_box_sunshine.html)
+[![Sunrise over a mystery box in the ground](images/thumbnails/mystery_box_sunrise-thumbnail.jpg)](https://giraut.github.io/360_photography/mystery_box_sunrise.html)
