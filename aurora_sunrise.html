@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Aurora sunrise</title>
+    <link rel="stylesheet" href="pannellum_build/pannellum.css">
+    <script src="pannellum_build/pannellum.js"></script>
+
+    <link href="video_js/video-js.css" rel="stylesheet" type="text/css">
+    <script src="video_js/video.js"></script>
+    <script src="video_js/videojs-pannellum-plugin.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+<body>
+  <video id="panorama" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="none" poster="/images/videos/thumbnails/aurora_sunrise.jpg" crossorigin="anonymous">
+    <source src="videos/aurora_sunrise.mp4" type="video/mp4"/>
+    <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+
+  <script>
+    videojs('panorama',
+      {
+        plugins: {
+          pannellum: {}
+        }
+      }
+    );
+  </script>
+
+  </body>
+</html>
