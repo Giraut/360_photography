@@ -17,5 +17,5 @@
 [![Rapids - Tour](images/thumbnails/rapids-observation_deck-thumbnail.jpg)](https://giraut.github.io/360_photography/rapids-tour.html)
 [![Sunrise over a mystery box in the ground](images/thumbnails/mystery_box_sunrise-thumbnail.jpg)](https://giraut.github.io/360_photography/mystery_box_sunrise.html)
 [![It's empty 🙁](images/thumbnails/it_is_empty-thumbnail.jpg)](https://giraut.github.io/360_photography/it_is_empty.html)
-[![Aurora sunrise](videos/thumbnails/aurora_sunrise.jpg)](https://giraut.github.io/360_photography/aurora_sunrise.html)
+[![Aurora sunrise](videos/thumbnails/aurora_sunrise-thumbnail.jpg)](https://giraut.github.io/360_photography/aurora_sunrise.html)
 [![Aurora sunrise - long exposure](images/thumbnails/aurora_sunrise-long_exposure-thumbnail.jpg)](https://giraut.github.io/360_photography/aurora_sunrise-long_exposure.html)
