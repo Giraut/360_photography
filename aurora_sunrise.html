@@ -49,7 +49,11 @@
     videojs('panorama',
       {
         plugins: {
-          pannellum: {}
+          pannellum: {
+            "hfov": 130.0,
+            "pitch": 35,
+            "yaw": -10
+          }
         }
       }
     );
