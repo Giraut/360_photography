@@ -19,3 +19,5 @@
 [![It's empty 🙁](images/thumbnails/it_is_empty-thumbnail.jpg)](https://giraut.github.io/360_photography/it_is_empty.html)
 [![Aurora sunrise](videos/thumbnails/aurora_sunrise-thumbnail.jpg)](https://giraut.github.io/360_photography/aurora_sunrise.html)
 [![Aurora sunrise - long exposure](images/thumbnails/aurora_sunrise-long_exposure-thumbnail.jpg)](https://giraut.github.io/360_photography/aurora_sunrise-long_exposure.html)
+[![Garage workshop conversion in progress #3](images/thumbnails/garage_workshop_conversion_in_progress3-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress3.html)
+[![Garage workshop conversion in progress #4](images/thumbnails/garage_workshop_conversion_in_progress4-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress4.html)
