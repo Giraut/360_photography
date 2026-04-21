@@ -21,3 +21,8 @@
 [![Aurora sunrise - long exposure](images/thumbnails/aurora_sunrise-long_exposure-thumbnail.jpg)](https://giraut.github.io/360_photography/aurora_sunrise-long_exposure.html)
 [![Garage workshop conversion in progress #3](images/thumbnails/garage_workshop_conversion_in_progress3-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress3.html)
 [![Garage workshop conversion in progress #4](images/thumbnails/garage_workshop_conversion_in_progress4-thumbnail.jpg)](https://giraut.github.io/360_photography/garage_workshop_conversion_in_progress4.html)
+[![All the way to the bank](images/thumbnails/all_the_way_to_the_bank-thumbnail.jpg)](https://giraut.github.io/360_photography/all_the_way_to_the_bank.html)
+[![Circle of life](images/thumbnails/circle_of_life-thumbnail.jpg)](https://giraut.github.io/360_photography/circle_of_life.html)
+[![The cyclist](images/thumbnails/the_cyclist-thumbnail.jpg)](https://giraut.github.io/360_photography/the_cyclist.html)
+[![Zipline](images/thumbnails/zipline-thumbnail.jpg)](https://giraut.github.io/360_photography/zipline.html)
+[![The brute](images/thumbnails/the_brute-thumbnail.jpg)](https://giraut.github.io/360_photography/the_brute.html)
