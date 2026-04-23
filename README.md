@@ -26,3 +26,4 @@
 [![The cyclist](images/thumbnails/the_cyclist-thumbnail.jpg)](https://giraut.github.io/360_photography/the_cyclist.html)
 [![Zipline](images/thumbnails/zipline-thumbnail.jpg)](https://giraut.github.io/360_photography/zipline.html)
 [![The brute](images/thumbnails/the_brute-thumbnail.jpg)](https://giraut.github.io/360_photography/the_brute.html)
+[![The Dying of the night](images/thumbnails/the_dying_of_the_night-thumbnail.jpg)](https://giraut.github.io/360_photography/the_dying_of_the_night.html)
