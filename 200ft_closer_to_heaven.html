@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>200 feet closer to heaven</title>
+    <meta property="og:title" content="200 feet closer to heaven" />
+    <meta property="og:description" content="200 feet closer to heaven - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/200ft_closer_to_heaven-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="200 feet closer to heaven" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 130.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5u~qtSj]j?t7ofadkCj[j[ayayj[ofaykDj[ayjsj@ayWBWBj?a|aekCayj@j[fRayazofa}ay",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/200ft_closer_to_heaven"
+          },
+          "title": "200 feet closer to heaven",
+          "pitch": "0",
+          "compass": true,
+          "autoRotate": true,
+          "autoRotateInactivityDelay": 10000,
+          "hotSpotDebug": false
+        }
+      );
+    </script>
+  </body>
+
+</html>

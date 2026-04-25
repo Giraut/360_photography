@@ -27,3 +27,4 @@
 [![Zipline](images/thumbnails/zipline-thumbnail.jpg)](https://giraut.github.io/360_photography/zipline.html)
 [![The brute](images/thumbnails/the_brute-thumbnail.jpg)](https://giraut.github.io/360_photography/the_brute.html)
 [![The dying of the night](images/thumbnails/the_dying_of_the_night-thumbnail.jpg)](https://giraut.github.io/360_photography/the_dying_of_the_night.html)
+[![200 feet closer to heaven](images/thumbnails/200ft_closer_to_heaven-thumbnail.jpg)](https://giraut.github.io/360_photography/200ft_closer_to_heaven.html)
