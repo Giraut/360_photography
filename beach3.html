@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beach #3</title>
+    <meta property="og:title" content="Beach #3" />
+    <meta property="og:description" content="Beach #3 - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/beach3-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Beach #3" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5t?wtRfQWBWVadRkayWCaykBazf6fkjZofj@jsj[j[f6ROV@ayofa}V@ocj?V@j[WBj?WBj[ae",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 2,
+            "cubeResolution": 1744,
+            "basePath": "images/multires/beach3"
+          },
+          "title": "Beach #3",
+          "pitch": "0",
+          "hotSpotDebug": true,
+          "hotSpots": [
+            {
+              "pitch": -4.6,
+              "yaw": 0.79,
+              "type": "info",
+              "text": "Beach #1",
+              "URL": "beach1.html"
+            },
+            {
+              "pitch": -6.36,
+              "yaw": 0.79,
+              "type": "info",
+              "text": "Beach #2",
+              "URL": "beach2.html"
+            },
+            {
+              "pitch": -8.4,
+              "yaw": 182.3,
+              "type": "info",
+              "text": "Beach #4",
+              "URL": "beach4.html"
+            }
+          ]
+        }
+      );
+    </script>
+  </body>
+
+</html>
