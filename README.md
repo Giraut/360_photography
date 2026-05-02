@@ -33,3 +33,4 @@
 [![Beach #2](images/thumbnails/beach2-thumbnail.jpg)](https://giraut.github.io/360_photography/beach2.html)
 [![Beach #3](images/thumbnails/beach3-thumbnail.jpg)](https://giraut.github.io/360_photography/beach3.html)
 [![Beach #4](images/thumbnails/beach4-thumbnail.jpg)](https://giraut.github.io/360_photography/beach4.html)
+[![New pile of wood](images/thumbnails/new_pile_of_wood-thumbnail.jpg)](https://giraut.github.io/360_photography/new_pile_of_wood.html)
