@@ -35,3 +35,4 @@
 [![Beach #4](images/thumbnails/beach4-thumbnail.jpg)](https://giraut.github.io/360_photography/beach4.html)
 [![New pile of wood](images/thumbnails/new_pile_of_wood-thumbnail.jpg)](https://giraut.github.io/360_photography/new_pile_of_wood.html)
 [![When a shack loves a multi-story parking garage very much](images/thumbnails/when_a_shack_loves_a_multi-story_parking_garage_very_much-thumbnail.jpg)](https://giraut.github.io/360_photography/when_a_shack_loves_a_multi-story_parking_garage_very_much.html)
+[![Tidy cottage](images/thumbnails/tidy_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/tidy_cottage.html)
