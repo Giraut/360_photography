@@ -36,5 +36,4 @@
 [![New pile of wood](images/thumbnails/new_pile_of_wood-thumbnail.jpg)](https://giraut.github.io/360_photography/new_pile_of_wood.html)
 [![When a shack loves a multi-story parking garage very much](images/thumbnails/when_a_shack_loves_a_multi-story_parking_garage_very_much-thumbnail.jpg)](https://giraut.github.io/360_photography/when_a_shack_loves_a_multi-story_parking_garage_very_much.html)
 [![Tidy cottage](images/thumbnails/tidy_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/tidy_cottage.html)
-[![Sunset [stereo]](images/thumbnails/sunset-stereo-thumbnail.jpg)](images/sunset-stereo.jpg)  
-*This photosphere is a **left-over-right** stereoscopic equirectangular panorama. Use for example [Bino](https://bino3d.org/) to view it: set the viewer for [Surround 360°](images/bino_setup_for_stereo/bino_setup_for_stereo1.png), [Input 3D above-below → Input top/bottom](images/bino_setup_for_stereo/bino_setup_for_stereo2.png), then the output method of your choice if you have VR equipment, or [Output 3D side-by-side → Output Left/Right](images/bino_setup_for_stereo/bino_setup_for_stereo3.png) and cross your eyes until the two images merge and the 3D scene appears.*
+[![Sunset (stereo)](images/thumbnails/sunset-stereo-thumbnail.jpg)](https://giraut.github.io/360_photography/sunset-stereo.html)
