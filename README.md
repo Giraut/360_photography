@@ -37,3 +37,4 @@
 [![When a shack loves a multi-story parking garage very much](images/thumbnails/when_a_shack_loves_a_multi-story_parking_garage_very_much-thumbnail.jpg)](https://giraut.github.io/360_photography/when_a_shack_loves_a_multi-story_parking_garage_very_much.html)
 [![Tidy cottage](images/thumbnails/tidy_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/tidy_cottage.html)
 [![Sunset (stereo)](images/thumbnails/sunset-stereo-thumbnail.jpg)](https://giraut.github.io/360_photography/sunset-stereo.html)
+[![Smoke and mirrors](images/thumbnails/smoke_and_mirrors-thumbnail.jpg)](https://giraut.github.io/360_photography/smoke_and_mirrors.html)
