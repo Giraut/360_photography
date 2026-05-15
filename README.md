@@ -38,3 +38,6 @@
 [![Tidy cottage](images/thumbnails/tidy_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/tidy_cottage.html)
 [![Sunset (stereo)](images/thumbnails/sunset-stereo-thumbnail.jpg)](https://giraut.github.io/360_photography/sunset-stereo.html)
 [![Smoke and mirrors](images/thumbnails/smoke_and_mirrors-thumbnail.jpg)](https://giraut.github.io/360_photography/smoke_and_mirrors.html)
+[![Do not track](images/thumbnails/do_not_track-thumbnail.jpg)](https://giraut.github.io/360_photography/do_not_track.html)
+[![Totally stoned](images/thumbnails/totally_stoned-thumbnail.jpg)](https://giraut.github.io/360_photography/totally_stoned.html)
+[![Life's a beach](images/thumbnails/lifes_a_beach-thumbnail.jpg)](https://giraut.github.io/360_photography/lifes_a_beach.html)
