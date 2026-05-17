@@ -41,3 +41,4 @@
 [![Do not track](images/thumbnails/do_not_track-thumbnail.jpg)](https://giraut.github.io/360_photography/do_not_track.html)
 [![Totally stoned](images/thumbnails/totally_stoned-thumbnail.jpg)](https://giraut.github.io/360_photography/totally_stoned.html)
 [![Life's a beach](images/thumbnails/lifes_a_beach-thumbnail.jpg)](https://giraut.github.io/360_photography/lifes_a_beach.html)
+[![Wood stack, full height](images/thumbnails/wood_stack_full_height-thumbnail.jpg)](https://giraut.github.io/360_photography/wood_stack_full_height.html)
