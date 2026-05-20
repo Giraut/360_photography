@@ -43,3 +43,4 @@
 [![Life's a beach](images/thumbnails/lifes_a_beach-thumbnail.jpg)](https://giraut.github.io/360_photography/lifes_a_beach.html)
 [![Wood stack, full height](images/thumbnails/wood_stack_full_height-thumbnail.jpg)](https://giraut.github.io/360_photography/wood_stack_full_height.html)
 [![Norwegian wood stack base](images/thumbnails/norwegian_wood_stack_base-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_base.html)
+[![Out of the rain](images/thumbnails/out_of_the_rain-thumbnail.jpg)](https://giraut.github.io/360_photography/out_of_the_rain.html)
