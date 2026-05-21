@@ -44,3 +44,5 @@
 [![Wood stack, full height](images/thumbnails/wood_stack_full_height-thumbnail.jpg)](https://giraut.github.io/360_photography/wood_stack_full_height.html)
 [![Norwegian wood stack base](images/thumbnails/norwegian_wood_stack_base-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_base.html)
 [![Out of the rain](images/thumbnails/out_of_the_rain-thumbnail.jpg)](https://giraut.github.io/360_photography/out_of_the_rain.html)
+[![Lord of the ring #1](images/thumbnails/lord_of_the_ring1-thumbnail.jpg)](https://giraut.github.io/360_photography/lord_of_the_ring1.html)
+[![Lord of the ring #2](images/thumbnails/lord_of_the_ring2-thumbnail.jpg)](https://giraut.github.io/360_photography/lord_of_the_ring2.html)
