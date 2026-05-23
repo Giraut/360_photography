@@ -46,3 +46,4 @@
 [![Out of the rain](images/thumbnails/out_of_the_rain-thumbnail.jpg)](https://giraut.github.io/360_photography/out_of_the_rain.html)
 [![Lord of the ring #1](images/thumbnails/lord_of_the_ring1-thumbnail.jpg)](https://giraut.github.io/360_photography/lord_of_the_ring1.html)
 [![Lord of the ring #2](images/thumbnails/lord_of_the_ring2-thumbnail.jpg)](https://giraut.github.io/360_photography/lord_of_the_ring2.html)
+[![Night mist](images/thumbnails/night_mist-thumbnail.jpg)](https://giraut.github.io/360_photography/night_mist.html)
