@@ -1,0 +1,14 @@
+{
+    "hfov": 100.0,
+    "autoLoad": true,
+    "type": "multires",
+    "multiRes": {
+        "shtHash": "5t?w%NWBM|WCf6RQoLj[oLjZjZayayazs:a|oMfRj[fQt6t7RjRjfkj[j]jsjsa|ofayayj[a|",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 1024,
+        "maxLevel": 3,
+        "cubeResolution": 3496
+    }
+}

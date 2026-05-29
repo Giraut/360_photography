@@ -49,3 +49,4 @@
 [![Night mist](images/thumbnails/night_mist-thumbnail.jpg)](https://giraut.github.io/360_photography/night_mist.html)
 [![Boaty McBoatface is back on the water](images/thumbnails/boaty_mcboatface_is_back_on_the_water-thumbnail.jpg)](https://giraut.github.io/360_photography/boaty_mcboatface_is_back_on_the_water.html)
 [![Flower power](images/thumbnails/flower_power-thumbnail.jpg)](https://giraut.github.io/360_photography/flower_power.html)
+[![Midnight boat ride](images/thumbnails/midnight_boat_ride-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_boat_ride.html)
