@@ -53,3 +53,4 @@
 [![A day on the lake](videos/thumbnails/a_day_on_the_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/a_day_on_the_lake.html)
 [![Norwegian wood stack slowly going up #1](images/thumbnails/norwegian_wood_stack_slowly_going_up1-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_slowly_going_up1.html)
 [![Norwegian wood stack slowly going up #2](images/thumbnails/norwegian_wood_stack_slowly_going_up2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_slowly_going_up2.html)
+[![Mesmerizing stainless steel tiled wall](videos/thumbnails/mesmerizing_stainless_steel_tiled_wall-thumbnail.jpg)](https://giraut.github.io/360_photography/mesmerizing_stainless_steel_tiled_wall.html)

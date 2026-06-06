@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mesmerizing stainless steel tiled wall</title>
+    <meta property="og:title" content="Mesmerizing stainless steel tiled wall" />
+    <meta property="og:description" content="Mesmerizing stainless steel tiled wall - 360-degree video sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/videos/thumbnails/mesmerizing_stainless_steel_tiled_wall-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Mesmerizing stainless steel tiled wall" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css">
+    <script src="pannellum_build/pannellum.js"></script>
+
+    <link href="video_js/video-js.css" rel="stylesheet" type="text/css">
+    <script src="video_js/video.js"></script>
+    <script src="video_js/videojs-pannellum-plugin.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+<body>
+  <video id="panorama" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="none" poster="videos/posters/mesmerizing_stainless_steel_tiled_wall-poster.jpg" crossorigin="anonymous">
+    <source src="videos/mesmerizing_stainless_steel_tiled_wall.webm" type="video/webm"/>
+    <source src="videos/mesmerizing_stainless_steel_tiled_wall.mp4" type="video/mp4"/>
+    <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+
+  <script>
+    videojs('panorama',
+      {
+        plugins: {
+          pannellum: {
+            "hfov": 102.0,
+            "pitch": 0,
+            "yaw":-7 
+          }
+        }
+      }
+    );
+  </script>
+
+  </body>
+</html>
