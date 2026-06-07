@@ -55,3 +55,5 @@
 [![Norwegian wood stack slowly going up #2](images/thumbnails/norwegian_wood_stack_slowly_going_up2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_slowly_going_up2.html)
 [![Mesmerizing stainless steel tiled wall](videos/thumbnails/mesmerizing_stainless_steel_tiled_wall-thumbnail.jpg)](https://giraut.github.io/360_photography/mesmerizing_stainless_steel_tiled_wall.html)
 [![Chop chop](videos/thumbnails/chop_chop-thumbnail.jpg)](https://giraut.github.io/360_photography/chop_chop.html)
+[![Norwegian wood stack, now 3 ft high #1](images/thumbnails/norwegian_wood_stack_three_feet_high1-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_three_feet_high1.html)
+[![Norwegian wood stack, now 3 ft high #2](images/thumbnails/norwegian_wood_stack_three_feet_high2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_three_feet_high2.html)
