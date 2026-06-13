@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midnight rainbow</title>
+    <meta property="og:title" content="Midnight rainbow" />
+    <meta property="og:description" content="Midnight rainbow - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/midnight_rainbow-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="Midnight rainbow" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 110.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5L~q.8oJX9j@jZWUWXofWXs.j[ogjsj]ofkBkCj@ofay-;%Ms,W;f6t7ayWXt7j@s:ayj]fPof",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 2,
+            "cubeResolution": 1744,
+            "basePath": "images/multires/midnight_rainbow"
+          },
+          "title": "Midnight rainbow",
+          "pitch": "10",
+          "hotSpotDebug": false
+        }
+      );
+    </script>
+  </body>
+
+</html>

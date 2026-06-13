@@ -60,3 +60,4 @@
 [![Leveled Norwegian wood stack #1](images/thumbnails/leveled_norwegian_wood_stack1-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack1.html)
 [![Leveled Norwegian wood stack #2](images/thumbnails/leveled_norwegian_wood_stack2-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack2.html)
 [![Leveled Norwegian wood stack #3](images/thumbnails/leveled_norwegian_wood_stack3-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack3.html)
+[![Midnight rainbow](images/thumbnails/midnight_rainbow-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_rainbow.html)
