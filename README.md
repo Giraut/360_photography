@@ -57,3 +57,6 @@
 [![Chop chop](videos/thumbnails/chop_chop-thumbnail.jpg)](https://giraut.github.io/360_photography/chop_chop.html)
 [![Norwegian wood stack, now 3 ft high #1](images/thumbnails/norwegian_wood_stack_three_feet_high1-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_three_feet_high1.html)
 [![Norwegian wood stack, now 3 ft high #2](images/thumbnails/norwegian_wood_stack_three_feet_high2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_three_feet_high2.html)
+[![Leveled Norwegian wood stack #1](images/thumbnails/leveled_norwegian_wood_stack1-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack1.html)
+[![Leveled Norwegian wood stack #2](images/thumbnails/leveled_norwegian_wood_stack2-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack2.html)
+[![Leveled Norwegian wood stack #3](images/thumbnails/leveled_norwegian_wood_stack3-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack3.html)
