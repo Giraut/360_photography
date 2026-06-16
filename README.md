@@ -61,3 +61,6 @@
 [![Leveled Norwegian wood stack #2](images/thumbnails/leveled_norwegian_wood_stack2-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack2.html)
 [![Leveled Norwegian wood stack #3](images/thumbnails/leveled_norwegian_wood_stack3-thumbnail.jpg)](https://giraut.github.io/360_photography/leveled_norwegian_wood_stack3.html)
 [![Midnight rainbow](images/thumbnails/midnight_rainbow-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_rainbow.html)
+[![Cleaned-up beach](images/thumbnails/cleaned-up_beach-thumbnail.jpg)](https://giraut.github.io/360_photography/cleaned-up_beach.html)
+[![Charles le chêne](images/thumbnails/charles_le_chene-thumbnail.jpg)](https://giraut.github.io/360_photography/charles_le_chene.html)
+[![Nono le noisetier](images/thumbnails/nono_le_noisetier-thumbnail.jpg)](https://giraut.github.io/360_photography/nono_le_noisetier.html)
