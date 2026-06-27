@@ -65,3 +65,4 @@
 [![Charles le chêne](images/thumbnails/charles_le_chene-thumbnail.jpg)](https://giraut.github.io/360_photography/charles_le_chene.html)
 [![Nono le noisetier](images/thumbnails/nono_le_noisetier-thumbnail.jpg)](https://giraut.github.io/360_photography/nono_le_noisetier.html)
 [![The sea will set us free](images/thumbnails/the_sea_will_set_us_free-thumbnail.jpg)](https://giraut.github.io/360_photography/the_sea_will_set_us_free.html)
+[![New boat](videos/thumbnails/new_boat-thumbnail.jpg)](https://giraut.github.io/360_photography/new_boat.html)
