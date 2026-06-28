@@ -67,3 +67,5 @@
 [![The sea will set us free](images/thumbnails/the_sea_will_set_us_free-thumbnail.jpg)](https://giraut.github.io/360_photography/the_sea_will_set_us_free.html)
 [![New boat](videos/thumbnails/new_boat-thumbnail.jpg)](https://giraut.github.io/360_photography/new_boat.html)
 [![Canals](videos/thumbnails/canals-thumbnail.jpg)](https://giraut.github.io/360_photography/canals.html)
+[![The Norwegian wood stack is full #1](images/thumbnails/the_norwegian_wood_stack_is_full1-thumbnail.jpg)](https://giraut.github.io/360_photography/the_norwegian_wood_stack_is_full1.html)
+[![The Norwegian wood stack is full #2](images/thumbnails/the_norwegian_wood_stack_is_full2-thumbnail.jpg)](https://giraut.github.io/360_photography/the_norwegian_wood_stack_is_full2.html)
