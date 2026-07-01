@@ -69,3 +69,4 @@
 [![Canals](videos/thumbnails/canals-thumbnail.jpg)](https://giraut.github.io/360_photography/canals.html)
 [![The Norwegian wood stack is full #1](images/thumbnails/the_norwegian_wood_stack_is_full1-thumbnail.jpg)](https://giraut.github.io/360_photography/the_norwegian_wood_stack_is_full1.html)
 [![The Norwegian wood stack is full #2](images/thumbnails/the_norwegian_wood_stack_is_full2-thumbnail.jpg)](https://giraut.github.io/360_photography/the_norwegian_wood_stack_is_full2.html)
+[![Trying to remove an old PVC pipe from the lake](videos/thumbnails/trying_to_remove_old_pvc_pipe_from_the_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/trying_to_remove_old_pvc_pipe_from_the_lake.html)
