@@ -72,3 +72,4 @@
 [![Trying to remove an old PVC pipe from the lake](videos/thumbnails/trying_to_remove_old_pvc_pipe_from_the_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/trying_to_remove_old_pvc_pipe_from_the_lake.html)
 [![Down the canal to the sea](videos/thumbnails/down_the_canal_to_the_sea-thumbnail.jpg)](https://giraut.github.io/360_photography/down_the_canal_to_the_sea.html)
 
+[![Midnight in the North](images/thumbnails/midnight_in_the_north-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_in_the_north.html)
