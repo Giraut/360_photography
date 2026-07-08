@@ -73,3 +73,4 @@
 [![Down the canal to the sea](videos/thumbnails/down_the_canal_to_the_sea-thumbnail.jpg)](https://giraut.github.io/360_photography/down_the_canal_to_the_sea.html)
 
 [![Midnight in the North](images/thumbnails/midnight_in_the_north-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_in_the_north.html)
+[![Quiet morning on the lake](videos/thumbnails/quiet_morning_on_the_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/quiet_morning_on_the_lake.html)
