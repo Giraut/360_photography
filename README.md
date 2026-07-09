@@ -75,3 +75,4 @@
 [![Midnight in the North](images/thumbnails/midnight_in_the_north-thumbnail.jpg)](https://giraut.github.io/360_photography/midnight_in_the_north.html)
 [![Quiet morning on the lake](videos/thumbnails/quiet_morning_on_the_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/quiet_morning_on_the_lake.html)
 [![In-between the sky](images/thumbnails/in-between_the_sky-thumbnail.jpg)](https://giraut.github.io/360_photography/in-between_the_sky.html)
+[![The ducks are not amused](videos/thumbnails/the_ducks_are_not_amused-thumbnail.jpg)](https://giraut.github.io/360_photography/the_ducks_are_not_amused.html)
