@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In-between the sky</title>
+    <meta property="og:title" content="In-between the sky" />
+    <meta property="og:description" content="In-between the sky - 360-degree photo sphere" />
+    <meta property="og:image" content="https://giraut.github.io/360_photography/images/thumbnails/in-between_the_sky-thumbnail.jpg" />
+    <meta property="og:image:type" content="images/jpeg" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="800" />
+    <meta property="og:image:alt" content="In-between the sky" />
+    <link rel="stylesheet" href="pannellum_build/pannellum.css"/>
+    <script type="text/javascript" src="pannellum_build/pannellum.js"></script>
+    <style>
+      html {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        position: fixed;
+        cursor: default;
+        width: 100%;
+        height: 100%;
+      }
+      #panorama {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="panorama"></div>
+    <script>
+      pannellum.viewer('panorama',
+        {
+          "hfov": 100.0,
+          "autoLoad": true,
+          "type": "multires",
+          "multiRes": {
+            "shtHash": "5x_4%Moej]ofoeWAj]j@fRoJj[j@a|j[j[R*fPayjtj[WBWCaea#j[WVayj[azayoej[ayj[ay",
+            "path": "/%l/%s%y_%x",
+            "fallbackPath": "/fallback/%s",
+            "extension": "jpg",
+            "tileResolution": 1024,
+            "maxLevel": 3,
+            "cubeResolution": 3496,
+            "basePath": "images/multires/in-between_the_sky"
+          },
+          "title": "In-between the sky",
+          "pitch": "0",
+          "hotSpotDebug": false
+        }
+      );
+    </script>
+  </body>
+
+</html>
