@@ -78,3 +78,4 @@
 [![The ducks are not amused](videos/thumbnails/the_ducks_are_not_amused-thumbnail.jpg)](https://giraut.github.io/360_photography/the_ducks_are_not_amused.html)
 [![New Boardwalk](images/thumbnails/new_boardwalk-thumbnail.jpg)](https://giraut.github.io/360_photography/new_boardwalk.html)
 [![Cleaned up and leveled beach](images/thumbnails/cleaned-up_leveled_beach-thumbnail.jpg)](https://giraut.github.io/360_photography/cleaned-up_leveled_beach.html)
+[![Out to sea](videos/thumbnails/out_to_sea-thumbnail.jpg)](https://giraut.github.io/360_photography/out_to_sea.html)
