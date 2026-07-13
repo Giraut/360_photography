@@ -81,3 +81,5 @@
 [![Out to sea](videos/thumbnails/out_to_sea-thumbnail.jpg)](https://giraut.github.io/360_photography/out_to_sea.html)
 [![Norwegian wood stack, now 4 ft high #1](images/thumbnails/norwegian_wood_stack_four_feet_high1-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_four_feet_high1.html)
 [![Norwegian wood stack, now 4 ft high #2](images/thumbnails/norwegian_wood_stack_four_feet_high2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_four_feet_high2.html)
+[![Norwegian wood stack, now 5 ft high #1](images/thumbnails/norwegian_wood_stack_five_feet_high1-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_five_feet_high1.html)
+[![Norwegian wood stack, now 5 ft high #2](images/thumbnails/norwegian_wood_stack_five_feet_high2-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_five_feet_high2.html)
