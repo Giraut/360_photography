@@ -88,3 +88,4 @@
 [![Norwegian wood stack, completed](images/thumbnails/norwegian_wood_stack_completed-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_completed.html)
 [![Norwegian wood stack, completed - Wide view](images/thumbnails/norwegian_wood_stack_completed-wide_view-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_completed-wide_view.html)
 [![Norwegian wood stack building timelapse](videos/thumbnails/norwegian_wood_stack_building_timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_building_timelapse.html)
+[![New birdhouses](images/thumbnails/new_birdhouses-thumbnail.jpg)](https://giraut.github.io/360_photography/new_birdhouses.html)
