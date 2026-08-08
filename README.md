@@ -90,3 +90,4 @@
 [![Norwegian wood stack building timelapse](videos/thumbnails/norwegian_wood_stack_building_timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/norwegian_wood_stack_building_timelapse.html)
 [![New birdhouses](images/thumbnails/new_birdhouses-thumbnail.jpg)](https://giraut.github.io/360_photography/new_birdhouses.html)
 [![Moonrise](videos/thumbnails/moonrise-thumbnail.jpg)](https://giraut.github.io/360_photography/moonrise.html)
+[![A night in the cottage](videos/thumbnails/a_night_in_the_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/a_night_in_the_cottage.html)
