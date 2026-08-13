@@ -92,3 +92,4 @@
 [![Moonrise](videos/thumbnails/moonrise-thumbnail.jpg)](https://giraut.github.io/360_photography/moonrise.html)
 [![A night in the cottage](videos/thumbnails/a_night_in_the_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/a_night_in_the_cottage.html)
 [![A night in the atrium](videos/thumbnails/a_night_in_the_atrium-thumbnail.jpg)](https://giraut.github.io/360_photography/a_night_in_the_atrium.html)
+[![Misty lake](images/thumbnails/misty_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/misty_lake.html)
