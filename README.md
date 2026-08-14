@@ -93,3 +93,4 @@
 [![A night in the cottage](videos/thumbnails/a_night_in_the_cottage-thumbnail.jpg)](https://giraut.github.io/360_photography/a_night_in_the_cottage.html)
 [![A night in the atrium](videos/thumbnails/a_night_in_the_atrium-thumbnail.jpg)](https://giraut.github.io/360_photography/a_night_in_the_atrium.html)
 [![Misty lake](images/thumbnails/misty_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/misty_lake.html)
+[![360° duckies](videos/thumbnails/360_duckies-thumbnail.jpg)](https://giraut.github.io/360_photography/360_duckies.html)
