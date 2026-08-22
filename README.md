@@ -96,3 +96,4 @@
 [![360° duckies](videos/thumbnails/360_duckies-thumbnail.jpg)](https://giraut.github.io/360_photography/360_duckies.html)
 [![Wilderness Systems Helix PD pedal drive propeller underwater](images/thumbnails/helix_pd_prop-thumbnail.jpg)](https://giraut.github.io/360_photography/helix_pd_prop.html)
 [![Wilderness Systems Helix PD pedal drive propeller underwater - Pedaling](videos/thumbnails/helix_pd_prop_pedaling-thumbnail.jpg)](https://giraut.github.io/360_photography/helix_pd_prop_pedaling.html)
+[![Swollen lake](images/thumbnails/swollen_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/swollen_lake.html)
