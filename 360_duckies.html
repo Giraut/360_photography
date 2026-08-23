@@ -37,7 +37,7 @@
   </head>
 
 <body>
-  <video id="panorama" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="none" poster="videos/posters/360_duckies-poster.jpg" crossorigin="anonymous">
+  <video id="panorama" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" poster="videos/posters/360_duckies-poster.jpg" crossorigin="anonymous">
     <source src="videos/360_duckies/360_duckies.m3u8" type="application/x-mpegURL"/>
     <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
@@ -45,19 +45,10 @@
   </video>
 
   <script>
-    if (window.videojs) {
-      var streamingEngine = videojs.Vhs || videojs.Hls;
-  
-      if (streamingEngine) {
-        // Force the player to stop pre-buffering after 20-30 seconds to keep Firefox from overflowing its own MSE buffer
-        streamingEngine.GOAL_BUFFER_LENGTH = 20;
-        streamingEngine.MAX_GOAL_BUFFER_LENGTH = 30;
-      }
-    }
     videojs('panorama',
       {
         loop: false,
-        preload: "auto",
+        preload: "none",
         plugins: {
           pannellum: {
             "hfov": 110.0,
