@@ -100,3 +100,4 @@
 [![Checking out flood damage around our lake](videos/thumbnails/checking_out_flood_damage_around_our_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/checking_out_flood_damage_around_our_lake.html)
 [![Up the flooded stream](videos/thumbnails/up_the_flooded_stream-thumbnail.jpg)](https://giraut.github.io/360_photography/up_the_flooded_stream.html)
 [![Shipwrecks](videos/thumbnails/shipwrecks-thumbnail.jpg)](https://giraut.github.io/360_photography/shipwrecks.html)
+[![Mr.X](images/thumbnails/mr.x-thumbnail.jpg)](https://giraut.github.io/360_photography/mr.x.html)
