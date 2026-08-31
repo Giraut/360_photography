@@ -101,3 +101,4 @@
 [![Up the flooded stream](videos/thumbnails/up_the_flooded_stream-thumbnail.jpg)](https://giraut.github.io/360_photography/up_the_flooded_stream.html)
 [![Shipwrecks](videos/thumbnails/shipwrecks-thumbnail.jpg)](https://giraut.github.io/360_photography/shipwrecks.html)
 [![Mr.X](images/thumbnails/mr.x-thumbnail.jpg)](https://giraut.github.io/360_photography/mr.x.html)
+[![Test timelapse with the camera inside an acrylic sphere](videos/thumbnails/test_timelapse_with_camera_in_acrylic_sphere-thumbnail.jpg)](https://giraut.github.io/360_photography/test_timelapse_with_camera_in_acrylic_sphere.html)
