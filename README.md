@@ -104,3 +104,4 @@
 [![Test timelapse with the camera inside an acrylic sphere](videos/thumbnails/test_timelapse_with_camera_in_acrylic_sphere-thumbnail.jpg)](https://giraut.github.io/360_photography/test_timelapse_with_camera_in_acrylic_sphere.html)
 [![Test timelapse with the camera inside a glass dome](videos/thumbnails/test_timelapse_with_camera_in_glass_dome-thumbnail.jpg)](https://giraut.github.io/360_photography/test_timelapse_with_camera_in_glass_dome.html)
 [![The mist](videos/thumbnails/the_mist-thumbnail.jpg)](https://giraut.github.io/360_photography/the_mist.html)
+[![Double rainbow](images/thumbnails/double_rainbow-thumbnail.jpg)](https://giraut.github.io/360_photography/double_rainbow.html)
