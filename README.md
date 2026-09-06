@@ -105,3 +105,4 @@
 [![Test timelapse with the camera inside a glass dome](videos/thumbnails/test_timelapse_with_camera_in_glass_dome-thumbnail.jpg)](https://giraut.github.io/360_photography/test_timelapse_with_camera_in_glass_dome.html)
 [![The mist](videos/thumbnails/the_mist-thumbnail.jpg)](https://giraut.github.io/360_photography/the_mist.html)
 [![Double rainbow](images/thumbnails/double_rainbow-thumbnail.jpg)](https://giraut.github.io/360_photography/double_rainbow.html)
+[![Frst northern lights of 2026-2027](images/thumbnails/first_northern_lights_of_2026-2027-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027.html)
