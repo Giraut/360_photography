@@ -107,3 +107,4 @@
 [![Double rainbow](images/thumbnails/double_rainbow-thumbnail.jpg)](https://giraut.github.io/360_photography/double_rainbow.html)
 [![First northern lights of 2026-2027](images/thumbnails/first_northern_lights_of_2026-2027-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027.html)
 [![First northern lights of 2026-2027 - Timelapse](videos/thumbnails/first_northern_lights_of_2026-2027-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027-timelapse.html)
+[![Rain](videos/thumbnails/rain-thumbnail.jpg)](https://giraut.github.io/360_photography/rain.html)
