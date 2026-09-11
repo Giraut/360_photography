@@ -108,3 +108,4 @@
 [![First northern lights of 2026-2027](images/thumbnails/first_northern_lights_of_2026-2027-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027.html)
 [![First northern lights of 2026-2027 - Timelapse](videos/thumbnails/first_northern_lights_of_2026-2027-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027-timelapse.html)
 [![Rain](videos/thumbnails/rain-thumbnail.jpg)](https://giraut.github.io/360_photography/rain.html)
+[![A heron and its friends](images/thumbnails/a_heron_and_its_friends-thumbnail.jpg)](https://giraut.github.io/360_photography/a_heron_and_its_friends.html)
