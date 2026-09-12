@@ -109,3 +109,8 @@
 [![First northern lights of 2026-2027 - Timelapse](videos/thumbnails/first_northern_lights_of_2026-2027-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/first_northern_lights_of_2026-2027-timelapse.html)
 [![Rain](videos/thumbnails/rain-thumbnail.jpg)](https://giraut.github.io/360_photography/rain.html)
 [![A heron and its friends](images/thumbnails/a_heron_and_its_friends-thumbnail.jpg)](https://giraut.github.io/360_photography/a_heron_and_its_friends.html)
+[![Venezuela party #1](images/thumbnails/venezuela_party1-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party1.html)
+[![Venezuela party #2](images/thumbnails/venezuela_party2-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party2.html)
+[![Venezuela party #3](images/thumbnails/venezuela_party3-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party3.html)
+[![Venezuela party #4](images/thumbnails/venezuela_party4-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party4.html)
+[![Venezuela party #5](images/thumbnails/venezuela_party5-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party5.html)
