@@ -114,3 +114,4 @@
 [![Venezuela party #3](images/thumbnails/venezuela_party3-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party3.html)
 [![Venezuela party #4](images/thumbnails/venezuela_party4-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party4.html)
 [![Venezuela party #5](images/thumbnails/venezuela_party5-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party5.html)
+[![Star trail](images/thumbnails/star_trail-thumbnail.jpg)](https://giraut.github.io/360_photography/star_trail.html)
