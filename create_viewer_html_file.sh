@@ -93,5 +93,9 @@ EOF
 
 # Add an entry in the README.md if it's not already there
 if ! grep ${EQIMG_ROOTNAME}.html README.md > /dev/null; then
+  mv README.md README.md.PREV
+  grep -v thumbnail README.md.PREV > README.md
   echo "[![${TITLE}](${THUMBNAIL})](${URLROOT}/${EQIMG_ROOTNAME}.html)" >> README.md
+  grep thumbnail README.md.PREV >> README.md
+  rm README.md.PREV
 fi
