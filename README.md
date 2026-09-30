@@ -116,3 +116,4 @@
 [![Venezuela party #5](images/thumbnails/venezuela_party5-thumbnail.jpg)](https://giraut.github.io/360_photography/venezuela_party5.html)
 [![Star trail](images/thumbnails/star_trail-thumbnail.jpg)](https://giraut.github.io/360_photography/star_trail.html)
 [![Northern lights - Sep 14, 2026 - Timelapse](videos/thumbnails/northern_lights-14.09.2026-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/northern_lights-14.09.2025-timelapse.html)
+[![Overnight in the forest](videos/thumbnails/overnight_in_the_forest-thumbnail.jpg)](https://giraut.github.io/360_photography/overnight_in_the_forest.html)
