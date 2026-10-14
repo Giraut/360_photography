@@ -1,5 +1,6 @@
 # 360° photography
 
+[![Northern lights - Oct 13, 2026 - Timelapse](videos/thumbnails/northern_lights-13.10.2026-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/northern_lights-13.10.2026-timelapse.html)
 [![Among the duckies](videos/thumbnails/among_the_duckies-thumbnail.jpg)](https://giraut.github.io/360_photography/among_the_duckies.html)
 [![Northern lights - Oct 4, 2026 - Timelapse](videos/thumbnails/northern_lights-04.10.2026-timelapse-thumbnail.jpg)](https://giraut.github.io/360_photography/northern_lights-04.10.2026-timelapse.html)
 [![Peaceful lake](videos/thumbnails/peaceful_lake-thumbnail.jpg)](https://giraut.github.io/360_photography/peaceful_lake.html)
